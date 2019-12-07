@@ -4,15 +4,5 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Hi! My name is Yoav Ramon.
+I've born in March 1995 And I'm currently working as an ML Engineer at [Hi Auto](hi.auto), and I was the first employee when the startup just got started, You can read more about our advancements at my [Linkedin](https://www.linkedin.com/in/yoav-ramon-611718174/). I'm also the organizer of [Speech Recognition Israel Meetup](https://www.meetup.com/Speech-Recognition-Israel/) & [Facebook](https://www.facebook.com/groups/461707137729175/) groups.
