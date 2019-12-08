@@ -2,6 +2,6 @@
 layout: post
 title:  "Welcome!"
 date:   2019-12-07 15:52:58 +0200
-categories: updates
+categories: updates about
 ---
 Welcome to my blog! you can read more at the [about](https://yoavramon.github.io/about/) section
