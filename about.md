@@ -8,7 +8,7 @@ permalink: /about/
 
 Hi!
 
-I'm based in Tel Aviv and currently working as an ML Engineer at [Hi Auto](hi.auto). I'm the first employee from when the startup just got started, and if you want to read more about our advancements follow me at my [Linkedin](https://www.linkedin.com/in/yoav-ramon-611718174/).
+I'm based in Tel Aviv and currently working as an ML Engineer at [Hi Auto](https://hi.auto). I'm the first employee from when the startup just got started, and if you want to read more about our advancements follow me at my [Linkedin](https://www.linkedin.com/in/yoav-ramon-611718174/).
 
 I try to support the Israeli machine-learning community by organizing the [Speech Recognition Israel Meetup](https://www.meetup.com/Speech-Recognition-Israel/) & [Facebook](https://www.facebook.com/groups/461707137729175/) groups.
 
