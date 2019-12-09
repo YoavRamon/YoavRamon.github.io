@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "An updated about section"
+date:   2019-11-01 15:52:58 +0200
+categories: updates about
+---
+Welcome to my blog!
+
+I wrote more about my interests at the [about](https://yoavramon.github.io/about/) section, Fill free to contact me!
