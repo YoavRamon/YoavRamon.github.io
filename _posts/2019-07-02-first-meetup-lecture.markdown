@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Lecture on the history and challenges of Diarization"
-date:   2018-07-02 14:00:00 +0200
+date:   2019-07-02 14:00:00 +0200
 categories: updates meetup
 ---
 ![image](/assets/img/meetup_1_Crowd.jpeg)
